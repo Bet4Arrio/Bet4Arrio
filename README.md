@@ -2,7 +2,7 @@
 
 - 🔭 AgroDev
 - 🌱  Aperfeiçoando com processamento de imagens
-- ⚡ Passatempo é reenventar a roda fora do expediente 
+- ⚡ Passatempo é reinventar a roda fora do expediente 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bet4Arrio&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide=issues)](https://github.com/Bet4Arrio/)
 
