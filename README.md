@@ -1,10 +1,12 @@
-## Olá! Eu sou o Pedro.
+## Olá! Eu sou o Emanuel
 
-- 🌱 Atualmente estou estudando C
+- 🔭 AgroDev
+- 🌱  Aperfeiçoando com processamento de imagens
+- ⚡ Passatempo é reenventar a roda fora do expediente 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro1516&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide=issues)](https://github.com/Bet4Arrio/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bet4Arrio&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide=issues)](https://github.com/Bet4Arrio/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bet4Arrio&locale=pt-br&theme=tokyonight&layout=compact)](https://github.com/Pedro1516)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bet4Arrio&locale=pt-br&theme=tokyonight&layout=compact)](https://github.com/Bet4Arrio)
 
 <div style="display: inline_block"><br>
   <img align="center" alt= "Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
